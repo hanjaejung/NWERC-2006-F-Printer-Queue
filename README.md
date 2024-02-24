@@ -1,5 +1,21 @@
 # NWERC-2006-F-Printer-Queue
 NWERC 2006 F Printer Queue
+
+
+백준 문제 푸는데 개인적으로 어려워서 올립니다
+
+소스에 대한 설명은 주석에 적어 놓았습니다
+
+잘은 모르겠지만 NWERC 2006 이 이름에 해당하는 대회에 나왔던 문제 같습니다(NWERC 2006 F Printer Queue)
+
+답이 자꾸 틀려서 'NWERC 2006 test data' 로 구글링해서 테스트 데이터 받아서 틀릴때마다 디버그 해서 풀었네요
+
+(백준 질문 게시판을 보니 대회에 나왔던 문제라 반례 데이터를 찾으면 나온다 해서 찾으니 반례 데이터가 있었네요)
+
+혹시 못찾는 분들을 위하여 테스트 자료(반례) 데이터도 첨부로 같이 올리겠습니다
+
+printerqueue.txt : 입력값 반례 데이터, printerqueue_out.txt : 출력값 반례 데이터
+
 package com.example.javastudy.codingStudy;
 
 import java.io.BufferedReader;
